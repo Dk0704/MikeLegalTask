@@ -1,0 +1,21 @@
+.navs{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 25px;
+    box-shadow: 0 20px 30px rgba(98, 100, 119, 0.18);   
+}
+
+.tab{
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+/* .nav{
+    
+} */
